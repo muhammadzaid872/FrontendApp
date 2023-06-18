@@ -1,0 +1,11 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="row">
+                <div *ngFor="let stat of cardsData" class="col-md-3">
+                    <app-stat [title]="stat.title" [value]="stat.value" [icon]="stat.icon"></app-stat>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+{
+  "HEADER": {
+    "LOGIN": {
+      "PROFILE": "Profile",
+      "LOGOUT": "Logout"
+    }
+  },
+  "MENUITEMS": {
+    "DASHBOARDS": {
+      "TEXT": "Dashboard"
+    },
+    "LeaveManagement":{
+      "TEXT":"Leave Management"
+    }
+  }
+}
